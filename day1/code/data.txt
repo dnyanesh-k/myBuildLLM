@@ -1,1 +1,5 @@
-hello world
+data is important for machine learning
+data helps models learn patterns
+data drives machine learning systems
+data improves prediction accuracy
+good data leads to better models
