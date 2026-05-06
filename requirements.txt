@@ -3,3 +3,6 @@ torch
 tiktoken
 transformers
 pickel
+pandas
+matplotlib
+notebook
